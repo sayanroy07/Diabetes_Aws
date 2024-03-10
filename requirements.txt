@@ -1,3 +1,6 @@
 flask
 numpy
 sklearn
+pickle
+imblearn
+xgboost
